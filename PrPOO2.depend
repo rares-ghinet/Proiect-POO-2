@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574887910 source:c:\users\rares\desktop\prpoo2\fibonacci.cpp
+	"Fibonacci.h"
+	<iostream>
+	<fstream>
+	<vector>
+
+1574885190 c:\users\rares\desktop\prpoo2\fibonacci.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1574887661 source:c:\users\rares\desktop\prpoo2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Fibonacci.h"
+
